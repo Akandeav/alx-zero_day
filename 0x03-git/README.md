@@ -1,4 +1,5 @@
 # 0x03-git
 
-**Git Repo Session"
+**Git Repo Session**
+*Welcome*
 
